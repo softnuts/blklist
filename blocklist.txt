@@ -5,4 +5,4 @@ czilladx.com
 semanticlocation-pa.googleapis.com
 app.readpeak.com
 cdn.bmcdn5.com
-
+bitmedia.io
